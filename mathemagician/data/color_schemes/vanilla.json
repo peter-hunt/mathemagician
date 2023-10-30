@@ -1,0 +1,10 @@
+{
+  "text": "#FDE8E9",
+  "prompt": "#BC9EC1",
+  "command": "#E2E8CE",
+  "title": "#AFD2E9",
+  "success": "#ACFCD9",
+  "error": "#FC6471",
+  "warning": "#F1E023",
+  "info": "#84ACCE"
+}
